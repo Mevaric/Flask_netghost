@@ -40,6 +40,7 @@
     <Folder Include="Flask_netghost\templates\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Flask_netghost\templates\post.html" />
     <Content Include="requirements.txt" />
     <Content Include="Flask_netghost\static\content\bootstrap.css" />
     <Content Include="Flask_netghost\static\content\bootstrap.min.css" />
